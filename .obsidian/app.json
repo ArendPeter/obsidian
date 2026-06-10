@@ -93,7 +93,7 @@
   "emacsyKeys": true,
   "defaultViewMode": "source",
   "communityThemeSortOrder": "download",
-  "autoPairMarkdown": true,
+  "autoPairMarkdown": false,
   "livePreview": true,
   "autoPairBrackets": true,
   "legacyEditor": false,

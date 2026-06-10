@@ -1,0 +1,1 @@
+from [[The New Breed, Understanding and Equipping the 21st Century Volunteer (book)]]
